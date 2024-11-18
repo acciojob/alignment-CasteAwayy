@@ -32,3 +32,6 @@ tr,td{
   justify-content: center;
   align-items: center;
 }
+.center{
+  text-align: center;
+}
